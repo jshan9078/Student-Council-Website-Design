@@ -12,7 +12,7 @@ More sections will be added as necessary. For instance, when events come up, spe
 Once a logo is finalized, it can be added to the site.
 
 ### Home Page
-![Home page](https://media.discordapp.net/attachments/847221144250482688/872875667010773032/unknown.png?width=1241&height=630)
+![Home page](https://cdn.discordapp.com/attachments/928022919337103393/1006348254704844880/unknown.png)
 
 ### Credits
 1. Icons featured throughout the site can be found on <https://icons8.com/>.  
